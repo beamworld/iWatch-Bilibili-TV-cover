@@ -20,7 +20,7 @@
 
 
 
-​	又增加了一款手表外壳，可以佩戴在手上。功能如下：
+​	又增加了一款手表外壳（Thin-cover），可以佩戴在手上。功能如下：
 
 1. 三个按键引出；
 2. 耳机通孔引出；
@@ -32,7 +32,17 @@
 
 ​	**上美图~**
 
+<img src="https://github.com/beamworld/iWatch-Bilibili-TV-cover/blob/master/output/render/iWatch_Thin_cover_AD.3.jpg?raw=true" style="zoom:50%;" />
 
+<img src="https://github.com/beamworld/iWatch-Bilibili-TV-cover/blob/master/output/render/iWatch_Thin_cover_AD.4.jpg?raw=true" style="zoom:50%;" />
+
+<img src="https://github.com/beamworld/iWatch-Bilibili-TV-cover/blob/master/output/render/iWatch_Thin_cover_AD.2.jpg?raw=true" style="zoom:50%;" />
+
+<img src="https://github.com/beamworld/iWatch-Bilibili-TV-cover/blob/master/output/render/iWatch_Thin_cover_AD.7.jpg?raw=true" style="zoom:50%;" />
+
+<img src="https://github.com/beamworld/iWatch-Bilibili-TV-cover/blob/master/output/render/iWatch_Thin_cover_AD.15.jpg?raw=true" style="zoom:50%;" />
+
+<img src="https://github.com/beamworld/iWatch-Bilibili-TV-cover/blob/master/output/render/iWatch_Thin_cover_AD.13.jpg?raw=true" style="zoom:50%;" />
 
 ## 更新日志
 
@@ -66,10 +76,11 @@
 `2020.08.20`
 
 - [x] 增大后盖螺丝孔至2.6以适配更多打印机。
+- [x] 新增手戴超薄机壳。
 
 
 
-## 3D打印使用方法
+## Bilibili-cover 3D打印使用方法
 
 ### 第一步：
 
@@ -95,7 +106,7 @@
 
 ### 第三步：
 
-1. 先把三个按键放到电视上对用孔中。
+1. 先把三个按键放到电视上对应孔中。
 2. 放入iWatch。
 3. 垫上一款减震棉在后盖和电池之间，减震棉你可以在你iWatch的快递盒子里找到，或者你再拆点什么。
 4. 拧上4颗螺丝，拧的时候慢慢来，一开始可能不好进入，多蹭蹭~。（螺丝孔使用的是公差配合设计，所以不要整天把螺丝拆下来拧上去，会越来越松！）
@@ -108,6 +119,41 @@
 ## 工程指引
 
 **#有时间的话会搞----------------------------------------------------明年。**
+
+
+
+## Thin-cover 3D打印使用方法
+
+### 第一步：
+
+​	直接使用切片软件将[STL模型](https://github.com/beamworld/iWatch-Bilibili-TV-cover/tree/master/output/stl)切片为Gcode，然后再3D打印机上打印即可。需要打印的文件和数量如下。
+
+|         模型名称         | 打印数量 |   用途   |
+| :----------------------: | :------: | :------: |
+|   Thin_cover_part1.STL   |    1     |  主外壳  |
+| Thin_cover_part2_cap.STL |    3     | 三个按键 |
+|   Thin_cover_part3.STL   |    1     |   后盖   |
+
+**注意：1.打印时不要打印任何类型的平台附着，会很很难刮。**
+
+
+
+### 第二步：
+
+​	采购螺丝`M1.2x3盘头十字`四个用于安装后盖。或者你能借到，或者你能把什么拆了都行。
+
+
+
+### 第三步：
+
+1. 先把三个按键放到机壳上对应孔中。
+2. 放入iWatch。
+3. 垫上一款减震棉在后盖和电池之间，减震棉你可以在你iWatch的快递盒子里找到，或者你再拆点什么。
+4. 拧上4颗螺丝，拧的时候慢慢来，一开始可能不好进入，多蹭蹭~。（螺丝孔使用的是公差配合设计，所以不要整天把螺丝拆下来拧上去，会越来越松！）
+5. 像平常一样安装表带。
+6. 享受你的新表壳吧吧。
+
+**#有时间的话会搞一个安装教程----------------------------------------------------明年。**
 
 
 
