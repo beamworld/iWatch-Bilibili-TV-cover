@@ -6,8 +6,6 @@
 3. Micro USB充电孔引出；
 4. 屏幕开孔；
 
-
-
 ​	**上美图~**
 
 <img src="https://github.com/beamworld/iWatch-Bilibili-TV-cover/blob/master/output/render/iWatch_Bilibili-TV_AD.9.png?raw=true" style="zoom:50%;" />
@@ -19,6 +17,20 @@
 <img src="https://github.com/beamworld/iWatch-Bilibili-TV-cover/blob/master/output/render/iWatch_Bilibili-TV_AD.18.jpg?raw=true" style="zoom:50%;" />
 
 <img src="https://github.com/beamworld/iWatch-Bilibili-TV-cover/blob/master/output/render/iWatch_Bilibili-TV_AD.20.jpg?raw=true" style="zoom:50%;" />
+
+
+
+​	又增加了一款手表外壳，可以佩戴在手上。功能如下：
+
+1. 三个按键引出；
+2. 耳机通孔引出；
+3. Micro USB充电孔引出；
+4. 屏幕开孔；
+5. 露出表带安装孔；便于安装表带；
+6. 露出充电指示灯和照明灯；
+7. 超薄机壳，厚度13mm。
+
+​	**上美图~**
 
 
 
