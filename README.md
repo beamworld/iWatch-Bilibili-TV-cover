@@ -1,3 +1,5 @@
+# 请注意！！！本项目已迁移至[码云](https://gitee.com/beamworld/iWatch-Bilibili-TV-cover)，github不再更新，最新更新请到码云获取。
+
 # iWatch-Bilibili-TV-cover
 ​	本项目为手表iWatch的Bilibili小电视外壳，目前适用于桌面放置使用。功能如下：
 
